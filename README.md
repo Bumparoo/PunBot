@@ -19,5 +19,7 @@ The current email for PunBot is theoriginalpunbot@hotmail.com, the backup email 
 
 #### Developers
 **HammerPLUS** - Lead Developer and Creator of PunBot
+
 **JDolittle126** - Co-developer
+
 **SmittyWerben11** - Co-developer
