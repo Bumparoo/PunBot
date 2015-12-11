@@ -1,4 +1,4 @@
-# PunBot-v1.2
+# PunBot
 **Version 1.2b**
 
 PunBot is a small program that was created for the sole purpose of sending puns via email.
@@ -16,3 +16,8 @@ The current email for PunBot is theoriginalpunbot@hotmail.com, the backup email 
 **12/11** - Update 1 - Version 1.1 - Added support for conversations, improved pun quality, tested out functions for gmail. Has a bug where if the program sends an email while recieving one it would crash. 
 
 **12/11** - Update 2 Beta - Version 1.2b - Fixed the bug mentioned in Update 1, added better conversation support, changed email protocols, switched email service from Outlook to Gmail, still in progress.
+
+#### Developers
+**HammerPLUS** - Lead Developer and Creator of PunBot
+**JDolittle126** - Co-developer
+**SmittyWerben11** - Co-developer
