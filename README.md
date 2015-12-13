@@ -17,9 +17,5 @@ The current email for PunBot is theoriginalpunbot@hotmail.com, the backup email 
 
 **12/11** - Update 2 Beta - Version 1.2b - Fixed the bug mentioned in Update 1, added better conversation support, changed email protocols, switched email service from Outlook to Gmail, still in progress.
 
-#### Developers
-**HammerPLUS** - Lead Developer and Creator of PunBot
-
-**JDoolittle126** - Co-developer
-
-**SmittyWerben11** - Co-developer
+####UPDATE 12/13/2015
+**I'm no longer working on this project, like always, the source is here. For PunBot's twitter API please message me and I will gladly give you the source for it. Other than that this project is cancelled.**
