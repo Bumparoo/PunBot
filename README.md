@@ -19,4 +19,4 @@ The current email for PunBot is theoriginalpunbot@hotmail.com, the backup email 
 
 **12/13/2015** - Development halted so I could catch up on school work, had the 1.3 alpha update, which was pretty much hotfixes and UI improvements.
 
-**1/6/2016** - Happy New Year! To start the year off right, PunBot is back in development. Update 1.3a2 is in development, which further expands UI improvements, and adds some twitter features like retweeting based on keywords and other features.
+**1/6/2016** - Happy New Year! To start the year off right, PunBot is back in development. Update 1.3a2 is in development, which further expands UI improvements, and adds some twitter features like retweeting based on keywords and other things.
